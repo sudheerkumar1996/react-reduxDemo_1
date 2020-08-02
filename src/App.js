@@ -18,7 +18,7 @@ function App() {
           <CakeContainer/>
           <IceCreamContainer/>
           <CakeSearch/>
-          {/* <UserConatiner/> */}
+          <UserConatiner/>
     </div>
     </Provider>
 
